@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import './loginSignup.css'
 
 import user_icon from '../Assets/user.png'
@@ -25,6 +25,12 @@ const loginSignup = () => {
                     <img src={passwprd_icon} alt="" />
                     <input type="password" />
                 </div>
+            </div>
+            <div className="forgot-password">Lost Password <span>Click Here!</span></div>
+            <div className="submit-container">
+                <div className="submit">Sign Up</div>
+                <div className="submit">Login</div>
+
             </div>
 
         </div>
