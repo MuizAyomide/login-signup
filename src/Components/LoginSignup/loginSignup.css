@@ -5,6 +5,7 @@
    margin-top: 200px;
    background: #ffff;
    padding-bottom: 30px;
+   width: 600px;
 }
 
 img{
@@ -64,5 +65,10 @@ img{
     outline: none;
     color: #797979;
     font-size: 19px;
-    
+}
+.forgot-password{
+    padding-left: 62px;
+    margin-top: 27px;
+    color: #797979;
+    font-size: 18px;
 }
